@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Game.unity
+    guid: 6cf0a953847ae4cce98b0d3e17a8f447
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Game1Cara.unity
+    guid: 68c1ff58b9ee1446b95a31a7ada26d91
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Game1CaraPinc.unity
+    guid: 6e32af53815424dac9076d126a16cffe
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Game1Persegi.unity
+    guid: 24b28771106f144d3be000b974eb9fc9
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Game2Persegi.unity
+    guid: 304dd9ab8e7b847f08639e1445b513c8
+  - enabled: 1
+    path: Assets/Scenes/Latihan/PersegiPanjang1.unity
+    guid: 1539f17f4d3f24800b19919a1c8f1091
+  - enabled: 1
+    path: Assets/Scenes/Latihan/PersegiPanjang2.unity
+    guid: 688ae100a8c844b2ebe52be7815d19f1
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Segitiga1.unity
+    guid: 7a4da288bedc9494eae5bd8a671d8c61
+  - enabled: 1
+    path: Assets/Scenes/Latihan/Segitiga2.unity
+    guid: 3d90a066fa2974c0392a288f11bf2571
+  - enabled: 1
+    path: Assets/Scenes/Latihan/SPenilaian.unity
+    guid: 40f69992afade4ea6b11925cefcd1227
+  - enabled: 1
+    path: Assets/Scenes/Materi/Materi.unity
+    guid: 494bdb43c288141c0a5cb729e3a31dc2
+  - enabled: 1
+    path: Assets/Scenes/Materi/Materii.unity
+    guid: 3c34f1950d5774e2f897b841d8f0fac6
+  - enabled: 1
+    path: Assets/Scenes/Materi/Materi1.unity
+    guid: f266334f72895482287cc3cd375aecb5
+  - enabled: 1
+    path: Assets/Scenes/Persegi/MateriPersegi.unity
+    guid: a0dedd2ae3d5e4582a5b45f4b0425278
+  - enabled: 1
+    path: Assets/Scenes/Persegi/MateriPersegi1.unity
+    guid: e847dddeead5c49e398f19b7b8dc0d82
+  - enabled: 1
+    path: Assets/Scenes/Persegi/MateriPersegi2.unity
+    guid: 1e69bd7c688754700abdadfac4b52986
+  - enabled: 1
+    path: Assets/Scenes/Persegi/MateriPersegi3.unity
+    guid: 214ee802a6237407ca3cd1bf9fb5ca37
+  - enabled: 1
+    path: Assets/Scenes/Persegi Panjang/MateriPersegiP.unity
+    guid: 2ed2e39f6fbab4ccd9d2dabf0191bdfd
+  - enabled: 1
+    path: Assets/Scenes/Persegi Panjang/MateriPersegiP1.unity
+    guid: 867f25de7b4e9407099e7e11fb15d7cc
+  - enabled: 1
+    path: Assets/Scenes/Persegi Panjang/MateriPersegiP2.unity
+    guid: 911e92eb1b9d44ed99c1d058864f754a
+  - enabled: 1
+    path: Assets/Scenes/Persegi Panjang/MateriPersegiP3.unity
+    guid: dce4e44bce3224924840c41ba69ebe59
+  - enabled: 1
+    path: Assets/Scenes/Persegi Panjang/MateriPersegiP4.unity
+    guid: 22c59533160ec4b54b1c59d95464ed98
+  - enabled: 1
+    path: Assets/Scenes/Segitiga/MateriSegitiga.unity
+    guid: 45c13a91b880e463ca7b01fa592d69b6
+  - enabled: 1
+    path: Assets/Scenes/Segitiga/MateriSegitiga1.unity
+    guid: c31f936e5610f4d45b96178f57ff9b86
+  - enabled: 1
+    path: Assets/Scenes/Segitiga/MateriSegitiga2.unity
+    guid: 2ca5c99be63c543048ecb8a600aadd94
+  - enabled: 1
+    path: Assets/Scenes/Segitiga/ContohLatihan.unity
+    guid: e3f2fe314330946229cb81cbc3c3ee1f
+  m_configObjects: {}
